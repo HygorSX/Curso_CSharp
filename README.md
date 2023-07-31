@@ -21,7 +21,7 @@ Lembre-se de que este repositório é dedicado aos estudos e aprendizado pessoal
 Contato
 Caso queira entrar em contato comigo ou acompanhar mais sobre meu percurso de aprendizado em C#, você pode me encontrar em algumas redes sociais e plataformas de desenvolvimento:
 
-E-mail: hygor.mecap@gmail.com
-GitHub: HygorSX
-LinkedIn: Hygor Abrantes
+E-mail: hygor.mecap@gmail.com<br>
+GitHub: HygorSX<br>
+LinkedIn: Hygor Abrantes<br>
 Divirta-se explorando o código e bons estudos em C#! Happy coding! 😄

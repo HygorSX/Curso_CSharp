@@ -18,10 +18,16 @@
     switch(Opcao)
     {
     case 0:
+            Console.WriteLine($"Sua viagem ao {destinos[0]} será marcada :)");
+            break;
     case 1:
+            Console.WriteLine($"Sua viagem ao {destinos[1]} será marcada :)");
+            break;
     case 2:
+            Console.WriteLine($"Sua viagem ao {destinos[2]} será marcada :)");
+            break;
     case 3:
-            Console.WriteLine($"Sua viagem ao {destinos[Opcao]} será marcada :)");
+            Console.WriteLine($"Sua viagem ao {destinos[3]} será marcada :)");
             break;
     default: 
         Console.WriteLine("ERRO! Digite um caracter válido!")

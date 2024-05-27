@@ -1,4 +1,3 @@
-// Define um método estático chamado DeleteCategory que recebe uma conexão com o banco de dados como parâmetro
 static void DeleteCategory(SqlConnection connection)
 {
     // Define a consulta SQL para deletar uma categoria específica na tabela 'Category'

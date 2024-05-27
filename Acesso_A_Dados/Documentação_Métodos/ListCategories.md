@@ -1,6 +1,6 @@
-# Listagem de Categorias
+# Criação de Categoria
 
-Este método `ListCategories` é responsável por listar todas as categorias armazenadas em um banco de dados.
+Este método `CreateCategory` é responsável por listar todas as categorias armazenadas em um banco de dados.
 
 ```csharp
 static void CreateCategory(SqlConnection connection)

@@ -1,0 +1,13 @@
+Baixar https://git-scm.com/download/win
+Entrar na pasta documentos, ctrl + L e digitar CMD
+git clone link.git
+dar cd na pasta com o nome do repositorio
+git branch -M main
+git push -u origin main
+git pull
+Adicionar arquivo teste
+git add .
+git commit -m ""
+Executar comandos solicitados user.email && user.name
+git commit -m "" novamente
+git push

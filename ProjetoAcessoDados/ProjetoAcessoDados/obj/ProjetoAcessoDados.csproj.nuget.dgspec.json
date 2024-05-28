@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PMB\\Desktop\\Hygor\\Estudos_C#\\POO\\ProjetoAcessoDados\\ProjetoAcessoDados\\ProjetoAcessoDados.csproj": {}
+    "C:\\Users\\PMB\\Documents\\Curso_CSharp\\ProjetoAcessoDados\\ProjetoAcessoDados\\ProjetoAcessoDados.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PMB\\Desktop\\Hygor\\Estudos_C#\\POO\\ProjetoAcessoDados\\ProjetoAcessoDados\\ProjetoAcessoDados.csproj": {
+    "C:\\Users\\PMB\\Documents\\Curso_CSharp\\ProjetoAcessoDados\\ProjetoAcessoDados\\ProjetoAcessoDados.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PMB\\Desktop\\Hygor\\Estudos_C#\\POO\\ProjetoAcessoDados\\ProjetoAcessoDados\\ProjetoAcessoDados.csproj",
+        "projectUniqueName": "C:\\Users\\PMB\\Documents\\Curso_CSharp\\ProjetoAcessoDados\\ProjetoAcessoDados\\ProjetoAcessoDados.csproj",
         "projectName": "ProjetoAcessoDados",
-        "projectPath": "C:\\Users\\PMB\\Desktop\\Hygor\\Estudos_C#\\POO\\ProjetoAcessoDados\\ProjetoAcessoDados\\ProjetoAcessoDados.csproj",
+        "projectPath": "C:\\Users\\PMB\\Documents\\Curso_CSharp\\ProjetoAcessoDados\\ProjetoAcessoDados\\ProjetoAcessoDados.csproj",
         "packagesPath": "C:\\Users\\PMB\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PMB\\Desktop\\Hygor\\Estudos_C#\\POO\\ProjetoAcessoDados\\ProjetoAcessoDados\\obj\\",
+        "outputPath": "C:\\Users\\PMB\\Documents\\Curso_CSharp\\ProjetoAcessoDados\\ProjetoAcessoDados\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LRRXy8n6zQhSqmV6m9XluPZ7eAhtsRzoulg9VW7EIwn6rSfSkZivxzT6E2WJNMCWdkiC2pLUsM3WkhlJ2LrqEQ==",
+  "dgSpecHash": "vhYr4SC8Hsy6KHzAZoLQUHObjszkuMoVDRGic6miJnpUIgs78xZbF/JnIQenKbah+S0La4Uf4QqDXI2ORSyQvA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PMB\\Desktop\\Hygor\\Estudos_C#\\POO\\ProjetoAcessoDados\\ProjetoAcessoDados\\ProjetoAcessoDados.csproj",
+  "projectFilePath": "C:\\Users\\PMB\\Documents\\Curso_CSharp\\ProjetoAcessoDados\\ProjetoAcessoDados\\ProjetoAcessoDados.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PMB\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\PMB\\.nuget\\packages\\dapper.contrib\\2.0.78\\dapper.contrib.2.0.78.nupkg.sha512",

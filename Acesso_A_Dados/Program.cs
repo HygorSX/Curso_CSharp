@@ -8,7 +8,7 @@ class Program
     {
 
         /*
-        const string connectionString = @"Server=DESKTOP-73M6QT8\MSSQLSERVER01;Database=balta_curso;Integrated Security=True;";
+        const string connectionString = @"";
 
         using (var connection = new SqlConnection(connectionString))
         {
@@ -41,7 +41,7 @@ class Program
         //---------------------Exemplo utilizando DAPPER---------------------\\
 
 
-        const string connectionString = @"Server=DESKTOP-73M6QT8\MSSQLSERVER01;Database=balta_curso;Integrated Security=True;";
+        const string connectionString = @"";
 
 
         //Fazendo conexao com o banco

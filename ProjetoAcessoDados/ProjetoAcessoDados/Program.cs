@@ -8,44 +8,70 @@ namespace ProjetosAcessosDados
 {
     class Program
     {
-        private const string connection_string = @"Data Source = 192.168.222.243; Initial Catalog = Blog; User ID = sa; Password = sa;Connect Timeout = 30; Encrypt=true;TrustServerCertificate=True;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
+        private const string connection_string = @"Server=DESKTOP-73M6QT8\MSSQLSERVER01;Database=balta_curso;Integrated Security=True;";
         static void Main(string[] args)
         {
             var conn = new SqlConnection(connection_string);    
             conn.Open();
 
-            ReadRoles(conn);
-            ReadUsers(conn);
-            ReadTags(conn);
+            ReadWithRoles(conn);
             //teste
             conn.Close();
         }
 
-        public static void ReadUsers(SqlConnection connection)
+        private static void CreateUser(Repository<User> repository)
         {
-            var repository = new Repository<User>(connection);
-            var items = repository.Get();
+            var user = new User
+            {
+                Bio = "8x Microsoft MVP",
+                Email = "andre@balta.io",
+                Image = "https://balta.io/andrebaltieri.jpg",
+                Name = "André Baltieri",
+                Slug = "andre-baltieri",
+                PasswordHash = Guid.NewGuid().ToString()
+            };
 
-            foreach ( var item in items )
-                Console.WriteLine(item.Name);
+            repository.Create(user);
         }
 
-        public static void ReadRoles(SqlConnection connection)
+        private static void ReadUsers(Repository<User> repository)
         {
-            var repository = new Repository<Role>(connection);
-            var items = repository.Get();
-
-            foreach (var item in items)
-                Console.WriteLine(item.Name);
+            var users = repository.Read();
+            foreach (var item in users)
+                Console.WriteLine(item.Email);
         }
 
-        public static void ReadTags(SqlConnection connection)
+        private static void ReadUser(Repository<User> repository)
         {
-            var repository = new Repository<Tag>(connection);
-            var items = repository.Get();
+            var user = repository.Read(2);
+            Console.WriteLine(user?.Email);
+        }
 
-            foreach (var item in items)
-                Console.WriteLine(item.Name);
+        private static void UpdateUser(Repository<User> repository)
+        {
+            var user = repository.Read(2);
+            user.Email = "hello@balta.io";
+            repository.Update(user);
+
+            Console.WriteLine(user?.Email);
+        }
+
+        private static void DeleteUser(Repository<User> repository)
+        {
+            var user = repository.Read(2);
+            repository.Delete(user);
+        }
+
+        private static void ReadWithRoles(SqlConnection connection)
+        {
+            var repository = new UserRepository(connection);
+            var users = repository.ReadWithRole();
+
+            foreach (var user in users)
+            {
+                Console.WriteLine(user.Email);
+                foreach (var role in user.Roles) Console.WriteLine($" - {role.Slug}");
+            }
         }
     }
 }

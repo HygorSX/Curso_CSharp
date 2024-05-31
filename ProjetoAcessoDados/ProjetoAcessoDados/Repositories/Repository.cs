@@ -11,33 +11,19 @@ namespace ProjetoAcessoDados.Repositories
 {
     public class Repository<TModel> where TModel : class
     {
-        //readonly é usado para leitura somente, ninguém poderá alterar a conexão
         private readonly SqlConnection _connection;
 
+        public Repository(SqlConnection connection)
+            => _connection = connection;
 
-        //Método Construtor
-        public Repository(SqlConnection conn)
-           => _connection = conn;
+        public void Create(TModel model) => _connection.Insert(model);
 
-        public IEnumerable<TModel> Get()
-            => _connection.GetAll<TModel>();
+        public List<TModel> Read() => _connection.GetAll<TModel>().ToList();
 
-        public TModel Get(int id)
-            => _connection.Get<TModel>(id);
+        public TModel Read(int id) => _connection.Get<TModel>(id);
 
-        public void Create(TModel model)
-            => _connection.Insert<TModel>(model);
+        public void Update(TModel model) => _connection.Update(model);
 
-        public void Update(TModel model)
-            => _connection.Update<TModel>(model);
-
-        public void Delete(TModel model)
-            =>  _connection.Delete<TModel>(model);
-
-        public void Delete(int id)
-        {
-            var model = _connection.Get<TModel>(id);
-            _connection.Delete<TModel>(model);
-        }
+        public void Delete(TModel model) => _connection.Delete(model);
     }
 }

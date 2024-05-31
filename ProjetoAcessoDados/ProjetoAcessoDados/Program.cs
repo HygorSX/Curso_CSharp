@@ -8,7 +8,7 @@ namespace ProjetosAcessosDados
 {
     class Program
     {
-        private const string connection_string = @"Server=DESKTOP-73M6QT8\MSSQLSERVER01;Database=balta_curso;Integrated Security=True;";
+        private const string connection_string = @"";
         static void Main(string[] args)
         {
             var conn = new SqlConnection(connection_string);    

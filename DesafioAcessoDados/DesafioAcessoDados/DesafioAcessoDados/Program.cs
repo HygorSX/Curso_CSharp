@@ -9,7 +9,7 @@ using DesafioAcessoDados.Repositories;
 
 class Program
 {
-    private const string _connectionString = @"Server=DESKTOP-73M6QT8\MSSQLSERVER01;Database=Blog;Integrated Security=True;";
+    private const string _connectionString = @"";
 
     static void Main(string[] args)
     {

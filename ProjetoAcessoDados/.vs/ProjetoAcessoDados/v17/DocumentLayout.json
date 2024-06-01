@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\hygor\\OneDrive\\Documentos\\Curso_CSharp\\ProjetoAcessoDados\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{291881F9-5ED0-4DAE-8674-D7C36BFA7541}|ProjetoAcessoDados\\ProjetoAcessoDados.csproj|c:\\users\\hygor\\onedrive\\documentos\\curso_csharp\\projetoacessodados\\projetoacessodados\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{291881F9-5ED0-4DAE-8674-D7C36BFA7541}|ProjetoAcessoDados\\ProjetoAcessoDados.csproj|solutionrelative:projetoacessodados\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{291881F9-5ED0-4DAE-8674-D7C36BFA7541}|ProjetoAcessoDados\\ProjetoAcessoDados.csproj|c:\\users\\hygor\\onedrive\\documentos\\curso_csharp\\projetoacessodados\\projetoacessodados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{291881F9-5ED0-4DAE-8674-D7C36BFA7541}|ProjetoAcessoDados\\ProjetoAcessoDados.csproj|solutionrelative:projetoacessodados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{291881F9-5ED0-4DAE-8674-D7C36BFA7541}|ProjetoAcessoDados\\ProjetoAcessoDados.csproj|c:\\users\\hygor\\onedrive\\documentos\\curso_csharp\\projetoacessodados\\projetoacessodados\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{291881F9-5ED0-4DAE-8674-D7C36BFA7541}|ProjetoAcessoDados\\ProjetoAcessoDados.csproj|solutionrelative:projetoacessodados\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{291881F9-5ED0-4DAE-8674-D7C36BFA7541}|ProjetoAcessoDados\\ProjetoAcessoDados.csproj|c:\\users\\hygor\\onedrive\\documentos\\curso_csharp\\projetoacessodados\\projetoacessodados\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
@@ -46,8 +46,7 @@
               "RelativeToolTip": "ProjetoAcessoDados\\Repositories\\Repository.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T21:11:48.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T21:11:48.14Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "ProjetoAcessoDados\\Repositories\\UserRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T21:17:33.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T21:17:33.8Z"
             },
             {
               "$type": "Document",
@@ -72,12 +70,11 @@
               "RelativeToolTip": "ProjetoAcessoDados\\Models\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T21:05:08.478Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T21:05:08.478Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Role.cs",
               "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Curso_CSharp\\ProjetoAcessoDados\\ProjetoAcessoDados\\Models\\Role.cs",
               "RelativeDocumentMoniker": "ProjetoAcessoDados\\Models\\Role.cs",
@@ -98,18 +95,17 @@
               "RelativeToolTip": "ProjetoAcessoDados\\Models\\Post.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T21:02:12.046Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T21:02:12.046Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Curso_CSharp\\ProjetoAcessoDados\\ProjetoAcessoDados\\Program.cs",
               "RelativeDocumentMoniker": "ProjetoAcessoDados\\Program.cs",
               "ToolTip": "C:\\Users\\hygor\\OneDrive\\Documentos\\Curso_CSharp\\ProjetoAcessoDados\\ProjetoAcessoDados\\Program.cs",
               "RelativeToolTip": "ProjetoAcessoDados\\Program.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T19:45:23.248Z",
               "EditorCaption": ""

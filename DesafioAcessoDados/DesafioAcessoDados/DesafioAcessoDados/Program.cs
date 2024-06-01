@@ -3,6 +3,9 @@ using System.Data.SqlClient;
 using DesafioAcessoDados.Screens.TagScreens;
 using DesafioAcessoDados.Screens.UserScreens;
 using DesafioAcessoDados.Screens.CategoryScreens;
+using DesafioAcessoDados.Screens.PostScreens;
+using DesafioAcessoDados.Screens;
+using DesafioAcessoDados.Repositories;
 
 class Program
 {
@@ -30,14 +33,15 @@ class Program
         Console.WriteLine("2 - Gestão de perfil");
         Console.WriteLine("3 - Gestão de categoria");
         Console.WriteLine("4 - Gestão de tag");
-        Console.WriteLine("5 - Vincular perfil/usuário");
-        Console.WriteLine("6 - Vincular post/tag");
-        Console.WriteLine("7 - Relatórios");
+        Console.WriteLine("5 - Gestão de post");
+        Console.WriteLine("6 - Vincular perfil/usuário");
+        Console.WriteLine("7 - Vincular post/tag");
+        Console.WriteLine("8 - Relatórios");
         Console.WriteLine();
         Console.WriteLine();
 
-        var option = short.Parse(Console.ReadLine()!);
-
+        int option = int.Parse(Console.ReadLine()!);
+        
         switch (option)
         {
             case 1:
@@ -48,6 +52,12 @@ class Program
                 break;
             case 4:
                 MenuTagScreen.Load();
+                break;
+            case 5:
+                MenuPostScreen.Load();
+                break;
+            case 7:
+                PostTag.connectPostTag();
                 break;
             default: LoadMenu(); break;
         }

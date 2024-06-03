@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesafioAcessoDados")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+577ecedb69188f0535fa50ef10dd3a25492408ae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8788df658dcd947c77e3ef82d120a78c62e796f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("DesafioAcessoDados")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesafioAcessoDados")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

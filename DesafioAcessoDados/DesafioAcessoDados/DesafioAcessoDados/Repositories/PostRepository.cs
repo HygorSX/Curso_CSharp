@@ -18,7 +18,11 @@ namespace DesafioAcessoDados.Repositories
             => _connection = connection;
 
         public List<Post> GetPostsWithTags()
+
+            
         {
+
+            
             var query = @"
                 SELECT
                     [Post].*,

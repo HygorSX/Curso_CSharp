@@ -22,10 +22,17 @@ namespace DesafioAcessoDados.Screens
             // Processe os resultados conforme necessário
             foreach (var post in posts)
             {
-                Console.Write($"Post: {post.Title}");
-                foreach (var tag in post.Tags)
+                Console.Write($"Id {post.Id}) Post: {post.Title}");
+                if (post.Tags.Count() == 0)
                 {
-                    Console.WriteLine($" - Tag: {tag.Name}");
+                    Console.WriteLine(" - Não há tags para este post");
+                }
+                else
+                {
+                    foreach (var tag in post.Tags)
+                    {
+                        Console.WriteLine($" - Tag: {tag.Name}");
+                    }
                 }
             }
         }

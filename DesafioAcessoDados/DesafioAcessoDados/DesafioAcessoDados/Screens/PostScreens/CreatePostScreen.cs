@@ -37,7 +37,7 @@ namespace DesafioAcessoDados.Screens.PostScreens
 
 
             //Pedir ajuda do vini para fazer o envio das datas corretamente
-            DateTime createdate = DateTime.Now;
+            //DateTime createdate = DateTime.Now;
 
             Create(new Post
             {
@@ -47,7 +47,7 @@ namespace DesafioAcessoDados.Screens.PostScreens
                 Summary = summary,
                 Body = body,
                 Slug = slug,
-                CreateDate = createdate,
+                //CreateDate = createdate,
             });
             Console.ReadKey();
             MenuPostScreen.Load();

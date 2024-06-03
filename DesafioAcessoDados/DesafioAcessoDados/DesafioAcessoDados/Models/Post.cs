@@ -17,9 +17,10 @@ namespace DesafioAcessoDados.Models
         public string Summary { get; set; }
         public string Body { get; set; }
         public string Slug { get; set; }
-        public DateTime CreateDate { get; set; }
-        public DateTime LastUpdateDate { get; set; }
+        public DateTime CreateDate { get; set; } = DateTime.Now;    
+        public DateTime LastUpdateDate { get; set; } = DateTime.Now;
 
-        public List<Tag> Tags { get; set; } = new List<Tag>();
+        [Write(false)]
+        public virtual List<Tag> Tags { get; set; } = new List<Tag>();
     }
 }

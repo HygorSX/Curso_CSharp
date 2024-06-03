@@ -35,15 +35,26 @@ namespace DesafioAcessoDados.Screens.PostScreens
 
             DateTime lastUpdate = DateTime.Now;
 
-            Update(new Post
+            int IdPostEditado = int.Parse(id);
+
+            var repository = new Repository<Post>(Database.Connection);
+            Post postEditavel = repository.Get().Where(p => p.Id == IdPostEditado).FirstOrDefault();
+
+            if (postEditavel == null)
             {
-                Id = int.Parse(id),
-                Title = title,
-                Summary = summary,
-                Body = body,
-                Slug = slug,
-                LastUpdateDate = lastUpdate,
-            });
+                Console.WriteLine("Post não encontrado");
+                return;
+            }
+
+            postEditavel.Id = IdPostEditado;
+            postEditavel.Title = title;
+            postEditavel.Summary = summary;
+            postEditavel.Body = body;
+            postEditavel.Slug = slug;
+            postEditavel.LastUpdateDate = lastUpdate;
+
+
+            Update(postEditavel); 
 
             Console.ReadKey();
             MenuPostScreen.Load();

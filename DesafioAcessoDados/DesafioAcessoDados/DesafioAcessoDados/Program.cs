@@ -9,7 +9,7 @@ using DesafioAcessoDados.Repositories;
 
 class Program
 {
-    private const string _connectionString = @"";
+    private const string _connectionString = @"Data Source = 192.168.222.243; Initial Catalog = Blog; User ID = sa; Password = sa;Connect Timeout = 30; Encrypt=true;TrustServerCertificate=True;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
 
     static void Main(string[] args)
     {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h9DfSdUg4H4kMBt4d62Off3npYerzd6CZX5eJlVUVj8X/V+istK2BNqPlLR+BuNx32I7XRNbkbahSC4wryo8KA==",
+  "dgSpecHash": "uy3vglb/fMUaIC+5UatFOAtB+jzNHhsdxOAumlARhZFc9m1d/yxYCcbiMuGqB2YKtIuh4+tJtW6m+a+SzuBWHw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PMB\\Documents\\Shooop\\Shooop\\Shooop.csproj",
+  "projectFilePath": "C:\\Users\\PMB\\Documents\\Curso_CSharp\\CriandoAPIs\\Shop\\Shooop\\Shooop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PMB\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\PMB\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

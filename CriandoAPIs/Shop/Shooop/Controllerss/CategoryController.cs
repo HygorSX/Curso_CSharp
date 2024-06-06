@@ -10,40 +10,49 @@ public class CategoryController : ControllerBase
 {
     [HttpGet]
     [Route("")]
-    public string Get()
+    public async Task<ActionResult<List<Category>>> Get()
     {
-        return "GET";
+        return new List<Category>();
     }
 
 
     [HttpGet]
     [Route("{id:int}")]
-    public string GetById(int id)
+    public async Task<ActionResult<Category>> GetById(int id)
     {
-        return "GET " + id.ToString();
+        return new Category();
     }
 
 
     [HttpPost]
     [Route("")]
-    public Category Post([FromBody] Category model)
+    public async Task<ActionResult<List<Category>>> Post([FromBody] Category model)
     {
-        return model;
+        if(!ModelState.IsValid)
+            return BadRequest(ModelState);
+
+        return Ok(model);
     }
 
 
     [HttpPut]
-    [Route("")]
-    public string Put()
+    [Route("{id:int}")]
+    public async Task<ActionResult<List<Category>>> Put(int id, [FromBody] Category model)
     {
-        return "PUT";
+        if (id != model.Id)
+            return NotFound(new { message = "Categoria não encontrada" });
+
+        if (!ModelState.IsValid)
+            return BadRequest(ModelState);
+
+        return Ok();
     }
 
 
     [HttpDelete]
     [Route("")]
-    public string Delete()
+    public async Task<ActionResult<List<Category>>> Delete()
     {
-        return "DELETE";
+        return Ok();
     }
 }

@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Shooop")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("DesafioAcessoDados")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+134a81811f9b41c677d400bd0f314685fd8b0713")]
-[assembly: System.Reflection.AssemblyProductAttribute("Shooop")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Shooop")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+577ecedb69188f0535fa50ef10dd3a25492408ae")]
+[assembly: System.Reflection.AssemblyProductAttribute("DesafioAcessoDados")]
+[assembly: System.Reflection.AssemblyTitleAttribute("DesafioAcessoDados")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

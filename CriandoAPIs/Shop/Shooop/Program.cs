@@ -1,21 +1,15 @@
-<<<<<<< HEAD
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Shooop;
 using Shooop.Data;
 using System.Text;
-=======
-using Microsoft.EntityFrameworkCore;
-using Shooop.Data;
->>>>>>> b712db4f9a563972c8e6fc1a8213d264a7fe3745
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
 builder.Services.AddControllers();
-<<<<<<< HEAD
 
 var key = Encoding.ASCII.GetBytes(Settings.Secret);
 builder.Services.AddAuthentication(x =>
@@ -36,8 +30,7 @@ builder.Services.AddAuthentication(x =>
 });
 
 
-=======
->>>>>>> b712db4f9a563972c8e6fc1a8213d264a7fe3745
+
 //builder.Services.AddDbContext<DataContext>(opt => opt.UseInMemoryDatabase("Database"));
 builder.Services.AddDbContext<DataContext>(opt => opt.UseSqlServer(builder.Configuration.GetConnectionString("connectionString")));
 builder.Services.AddScoped<DataContext, DataContext>();

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Shooop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+347efbc7941931fcfe21ef46aa69ba6f0f278f77")]
 [assembly: System.Reflection.AssemblyProductAttribute("Shooop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Shooop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\PMB\\Documents\\Curso_CSharp\\CriandoAPIs\\Shop\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{77A7A35F-C652-441A-A265-0B4656F856B9}|Shooop\\Shooop.csproj|c:\\users\\pmb\\documents\\curso_csharp\\criandoapis\\shop\\shooop\\controllerss\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A7A35F-C652-441A-A265-0B4656F856B9}|Shooop\\Shooop.csproj|solutionrelative:shooop\\controllerss\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A7A35F-C652-441A-A265-0B4656F856B9}|Shooop\\Shooop.csproj|c:\\users\\pmb\\documents\\curso_csharp\\criandoapis\\shop\\shooop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A7A35F-C652-441A-A265-0B4656F856B9}|Shooop\\Shooop.csproj|solutionrelative:shooop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A7A35F-C652-441A-A265-0B4656F856B9}|Shooop\\Shooop.csproj|c:\\users\\pmb\\documents\\curso_csharp\\criandoapis\\shop\\shooop\\controllerss\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A7A35F-C652-441A-A265-0B4656F856B9}|Shooop\\Shooop.csproj|solutionrelative:shooop\\controllerss\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{77A7A35F-C652-441A-A265-0B4656F856B9}|Shooop\\Shooop.csproj|c:\\users\\pmb\\documents\\curso_csharp\\criandoapis\\shop\\shooop\\controllerss\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77A7A35F-C652-441A-A265-0B4656F856B9}|Shooop\\Shooop.csproj|solutionrelative:shooop\\controllerss\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{77A7A35F-C652-441A-A265-0B4656F856B9}|Shooop\\Shooop.csproj|c:\\users\\pmb\\documents\\curso_csharp\\criandoapis\\shop\\shooop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{77A7A35F-C652-441A-A265-0B4656F856B9}|Shooop\\Shooop.csproj|solutionrelative:shooop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77A7A35F-C652-441A-A265-0B4656F856B9}|Shooop\\Shooop.csproj|c:\\users\\pmb\\documents\\curso_csharp\\criandoapis\\shop\\shooop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77A7A35F-C652-441A-A265-0B4656F856B9}|Shooop\\Shooop.csproj|solutionrelative:shooop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{77A7A35F-C652-441A-A265-0B4656F856B9}|Shooop\\Shooop.csproj|c:\\users\\pmb\\documents\\curso_csharp\\criandoapis\\shop\\shooop\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,10 +42,6 @@
       "RelativeMoniker": "D:0:0:{77A7A35F-C652-441A-A265-0B4656F856B9}|Shooop\\Shooop.csproj|solutionrelative:shooop\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77A7A35F-C652-441A-A265-0B4656F856B9}|Shooop\\Shooop.csproj|c:\\users\\pmb\\documents\\curso_csharp\\criandoapis\\shop\\shooop\\controllerss\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77A7A35F-C652-441A-A265-0B4656F856B9}|Shooop\\Shooop.csproj|solutionrelative:shooop\\controllerss\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{77A7A35F-C652-441A-A265-0B4656F856B9}|Shooop\\Shooop.csproj|c:\\users\\pmb\\documents\\curso_csharp\\criandoapis\\shop\\shooop\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77A7A35F-C652-441A-A265-0B4656F856B9}|Shooop\\Shooop.csproj|solutionrelative:shooop\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -48,10 +52,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{77A7A35F-C652-441A-A265-0B4656F856B9}|Shooop\\Shooop.csproj|c:\\users\\pmb\\documents\\curso_csharp\\criandoapis\\shop\\shooop\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77A7A35F-C652-441A-A265-0B4656F856B9}|Shooop\\Shooop.csproj|solutionrelative:shooop\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77A7A35F-C652-441A-A265-0B4656F856B9}|Shooop\\Shooop.csproj|c:\\users\\pmb\\documents\\curso_csharp\\criandoapis\\shop\\shooop\\controllerss\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77A7A35F-C652-441A-A265-0B4656F856B9}|Shooop\\Shooop.csproj|solutionrelative:shooop\\controllerss\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{77A7A35F-C652-441A-A265-0B4656F856B9}|Shooop\\Shooop.csproj|c:\\users\\pmb\\documents\\curso_csharp\\criandoapis\\shop\\shooop\\shooop.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
@@ -77,23 +77,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TokenService.cs",
-              "DocumentMoniker": "C:\\Users\\PMB\\Documents\\Curso_CSharp\\CriandoAPIs\\Shop\\Shooop\\Services\\TokenService.cs",
-              "RelativeDocumentMoniker": "Shooop\\Services\\TokenService.cs",
-              "ToolTip": "C:\\Users\\PMB\\Documents\\Curso_CSharp\\CriandoAPIs\\Shop\\Shooop\\Services\\TokenService.cs",
-              "RelativeToolTip": "Shooop\\Services\\TokenService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\PMB\\Documents\\Curso_CSharp\\CriandoAPIs\\Shop\\Shooop\\Controllerss\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Shooop\\Controllerss\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\PMB\\Documents\\Curso_CSharp\\CriandoAPIs\\Shop\\Shooop\\Controllerss\\CategoryController.cs",
+              "RelativeToolTip": "Shooop\\Controllerss\\CategoryController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T16:38:08.994Z"
+              "WhenOpened": "2024-06-11T16:38:09.026Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\PMB\\Documents\\Curso_CSharp\\CriandoAPIs\\Shop\\Shooop\\Controllerss\\UserController.cs",
+              "RelativeDocumentMoniker": "Shooop\\Controllerss\\UserController.cs",
+              "ToolTip": "C:\\Users\\PMB\\Documents\\Curso_CSharp\\CriandoAPIs\\Shop\\Shooop\\Controllerss\\UserController.cs",
+              "RelativeToolTip": "Shooop\\Controllerss\\UserController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowEMAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T16:38:08.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\PMB\\Documents\\Curso_CSharp\\CriandoAPIs\\Shop\\Shooop\\Controllerss\\ProductController.cs",
+              "RelativeDocumentMoniker": "Shooop\\Controllerss\\ProductController.cs",
+              "ToolTip": "C:\\Users\\PMB\\Documents\\Curso_CSharp\\CriandoAPIs\\Shop\\Shooop\\Controllerss\\ProductController.cs",
+              "RelativeToolTip": "Shooop\\Controllerss\\ProductController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T16:38:09.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PMB\\Documents\\Curso_CSharp\\CriandoAPIs\\Shop\\Shooop\\Program.cs",
+              "RelativeDocumentMoniker": "Shooop\\Program.cs",
+              "ToolTip": "C:\\Users\\PMB\\Documents\\Curso_CSharp\\CriandoAPIs\\Shop\\Shooop\\Program.cs",
+              "RelativeToolTip": "Shooop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T16:38:09.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\PMB\\Documents\\Curso_CSharp\\CriandoAPIs\\Shop\\Shooop\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Shooop\\Models\\Category.cs",
@@ -106,18 +146,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\PMB\\Documents\\Curso_CSharp\\CriandoAPIs\\Shop\\Shooop\\Controllerss\\CategoryController.cs",
-              "RelativeDocumentMoniker": "Shooop\\Controllerss\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\PMB\\Documents\\Curso_CSharp\\CriandoAPIs\\Shop\\Shooop\\Controllerss\\CategoryController.cs",
-              "RelativeToolTip": "Shooop\\Controllerss\\CategoryController.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwCUAAAAEAAAA",
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\PMB\\Documents\\Curso_CSharp\\CriandoAPIs\\Shop\\Shooop\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Shooop\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\PMB\\Documents\\Curso_CSharp\\CriandoAPIs\\Shop\\Shooop\\Services\\TokenService.cs",
+              "RelativeToolTip": "Shooop\\Services\\TokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T16:38:09.026Z"
+              "WhenOpened": "2024-06-11T16:38:08.994Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\PMB\\Documents\\Curso_CSharp\\CriandoAPIs\\Shop\\Shooop\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Shooop\\appsettings.Development.json",
@@ -125,24 +165,11 @@
               "RelativeToolTip": "Shooop\\appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-11T16:38:09.026Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T16:38:09.026Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\PMB\\Documents\\Curso_CSharp\\CriandoAPIs\\Shop\\Shooop\\Program.cs",
-              "RelativeDocumentMoniker": "Shooop\\Program.cs",
-              "ToolTip": "C:\\Users\\PMB\\Documents\\Curso_CSharp\\CriandoAPIs\\Shop\\Shooop\\Program.cs",
-              "RelativeToolTip": "Shooop\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T16:38:09.041Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Settings.cs",
               "DocumentMoniker": "C:\\Users\\PMB\\Documents\\Curso_CSharp\\CriandoAPIs\\Shop\\Shooop\\Settings.cs",
               "RelativeDocumentMoniker": "Shooop\\Settings.cs",
@@ -154,20 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\PMB\\Documents\\Curso_CSharp\\CriandoAPIs\\Shop\\Shooop\\Controllerss\\UserController.cs",
-              "RelativeDocumentMoniker": "Shooop\\Controllerss\\UserController.cs",
-              "ToolTip": "C:\\Users\\PMB\\Documents\\Curso_CSharp\\CriandoAPIs\\Shop\\Shooop\\Controllerss\\UserController.cs",
-              "RelativeToolTip": "Shooop\\Controllerss\\UserController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T16:38:08.961Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "20240610232842_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\PMB\\Documents\\Curso_CSharp\\CriandoAPIs\\Shop\\Shooop\\Migrations\\20240610232842_InitialCreate.cs",
               "RelativeDocumentMoniker": "Shooop\\Migrations\\20240610232842_InitialCreate.cs",
@@ -179,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\PMB\\Documents\\Curso_CSharp\\CriandoAPIs\\Shop\\Shooop\\appsettings.json",
               "RelativeDocumentMoniker": "Shooop\\appsettings.json",
@@ -187,12 +201,11 @@
               "RelativeToolTip": "Shooop\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-11T16:38:09.026Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T16:38:09.026Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Users\\PMB\\Documents\\Curso_CSharp\\CriandoAPIs\\Shop\\Shooop\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "Shooop\\Data\\DataContext.cs",
@@ -204,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
@@ -216,7 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "DataContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\PMB\\Documents\\Curso_CSharp\\CriandoAPIs\\Shop\\Shooop\\Migrations\\DataContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Shooop\\Migrations\\DataContextModelSnapshot.cs",
@@ -225,18 +238,6 @@
               "ViewState": "AQIAAB8AAAAAAAAAAAAgwB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T16:38:09.01Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\PMB\\Documents\\Curso_CSharp\\CriandoAPIs\\Shop\\Shooop\\Controllerss\\ProductController.cs",
-              "RelativeDocumentMoniker": "Shooop\\Controllerss\\ProductController.cs",
-              "ToolTip": "C:\\Users\\PMB\\Documents\\Curso_CSharp\\CriandoAPIs\\Shop\\Shooop\\Controllerss\\ProductController.cs",
-              "RelativeToolTip": "Shooop\\Controllerss\\ProductController.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAowDgAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T16:38:09.026Z"
             },
             {
               "$type": "Document",

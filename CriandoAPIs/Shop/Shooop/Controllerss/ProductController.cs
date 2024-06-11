@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Shooop.Data;
 using Shooop.Models;
@@ -11,6 +12,7 @@ namespace Shooop.Controllerss
     {
         [HttpGet]
         [Route("")]
+        [AllowAnonymous]
         public async Task<ActionResult<List<Product>>> Get(
         [FromServices] DataContext context
         )
@@ -26,6 +28,7 @@ namespace Shooop.Controllerss
 
         [HttpGet]
         [Route("{id:int}")]
+        [AllowAnonymous]
         public async Task<ActionResult<Product>> GetById(
             [FromServices] DataContext context,
             int id
@@ -42,6 +45,7 @@ namespace Shooop.Controllerss
 
         [HttpGet]
         [Route("categories/{id:int}")]
+        [AllowAnonymous]
         public async Task<ActionResult<List<Product>>> GetByCategory(
             [FromServices] DataContext context,
             int id
@@ -59,6 +63,7 @@ namespace Shooop.Controllerss
 
         [HttpPost]
         [Route("")]
+        [Authorize(Roles = "employee")]
         public async Task<ActionResult<Product>> Post(
             [FromServices] DataContext context,
             [FromBody] Product model)

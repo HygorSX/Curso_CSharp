@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hygor\\OneDrive\\Documentos\\Curso_CSharp\\DesafioAcessoDados\\DesafioAcessoDados\\DesafioAcessoDados\\DesafioAcessoDados.csproj": {}
+    "C:\\Users\\PMB\\Documents\\Curso_CSharp\\DesafioDeAcessoDeDados\\DesafioAcessoDados\\DesafioAcessoDados\\DesafioAcessoDados.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hygor\\OneDrive\\Documentos\\Curso_CSharp\\DesafioAcessoDados\\DesafioAcessoDados\\DesafioAcessoDados\\DesafioAcessoDados.csproj": {
+    "C:\\Users\\PMB\\Documents\\Curso_CSharp\\DesafioDeAcessoDeDados\\DesafioAcessoDados\\DesafioAcessoDados\\DesafioAcessoDados.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hygor\\OneDrive\\Documentos\\Curso_CSharp\\DesafioAcessoDados\\DesafioAcessoDados\\DesafioAcessoDados\\DesafioAcessoDados.csproj",
+        "projectUniqueName": "C:\\Users\\PMB\\Documents\\Curso_CSharp\\DesafioDeAcessoDeDados\\DesafioAcessoDados\\DesafioAcessoDados\\DesafioAcessoDados.csproj",
         "projectName": "DesafioAcessoDados",
-        "projectPath": "C:\\Users\\hygor\\OneDrive\\Documentos\\Curso_CSharp\\DesafioAcessoDados\\DesafioAcessoDados\\DesafioAcessoDados\\DesafioAcessoDados.csproj",
-        "packagesPath": "C:\\Users\\hygor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hygor\\OneDrive\\Documentos\\Curso_CSharp\\DesafioAcessoDados\\DesafioAcessoDados\\DesafioAcessoDados\\obj\\",
+        "projectPath": "C:\\Users\\PMB\\Documents\\Curso_CSharp\\DesafioDeAcessoDeDados\\DesafioAcessoDados\\DesafioAcessoDados\\DesafioAcessoDados.csproj",
+        "packagesPath": "C:\\Users\\PMB\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PMB\\Documents\\Curso_CSharp\\DesafioDeAcessoDeDados\\DesafioAcessoDados\\DesafioAcessoDados\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hygor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PMB\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
